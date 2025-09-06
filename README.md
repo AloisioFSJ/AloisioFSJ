@@ -1,4 +1,4 @@
-## Olá! Eu sou Aloisio Júnior 👋
+## Olá! Eu sou Aloisio Júnior 👋🎧
 
 Estou finalizando minha graduação em **Ciência da Computação**.
 Sou apaixonado por **automação de tarefas** e **análise de dados**.  
