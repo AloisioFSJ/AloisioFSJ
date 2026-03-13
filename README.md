@@ -7,7 +7,7 @@ Gosto de unir criatividade com código para resolver problemas do dia a dia e tr
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aloisio_fsj)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alo%C3%ADsio-j%C3%BAnior-020ab3201/)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aloisiofsj77@gmail.com)
 
 ---
 
